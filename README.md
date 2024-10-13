@@ -1,2 +1,8 @@
 # Cpp-Masters
-C++ Masters Course
+
+Lecture notes for C++ Masters Course
+
+## Lectures
+
+1. Strings
+2. ...
